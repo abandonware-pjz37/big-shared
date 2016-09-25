@@ -3,7 +3,8 @@
 namespace foo {
 namespace b {
 
-B::B() {
+int B::b() {
+  return 0x13;
 }
 
 } // namespace b

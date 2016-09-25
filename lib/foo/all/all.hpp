@@ -4,6 +4,6 @@
 #include <foo/a/A.hpp>
 #include <foo/b/B.hpp>
 
-void foo_all();
+int foo_all();
 
 #endif // FOO_ALL_ALL_HPP_

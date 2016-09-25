@@ -10,7 +10,7 @@ namespace a {
 
 class A {
  public:
-  A();
+  int a();
 };
 
 } // namespace a

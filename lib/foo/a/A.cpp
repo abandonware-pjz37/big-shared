@@ -7,7 +7,8 @@
 namespace foo {
 namespace a {
 
-A::A() {
+int A::a() {
+  return 0x42;
 }
 
 } // namespace a

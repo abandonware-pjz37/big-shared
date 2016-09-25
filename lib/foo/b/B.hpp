@@ -6,7 +6,7 @@ namespace b {
 
 class B {
  public:
-  B();
+  int b();
 };
 
 } // namespace b
